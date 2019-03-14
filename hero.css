@@ -1,0 +1,70 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header {
+	background-color: #2255a7;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 10px;
+	border: 10px solid #CC0000;
+	background-color: white;
+}
+
+.content {
+	max-width: 400px;
+	margin: 0 auto;
+	background-color:#f5ef3a
+	padding: 0px 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+a{
+	color:red;
+	text-decoration: none;
+}
+
+footer{
+	margin: 40px 0px 0px 0px;
+	padding: 40px 20px;
+	background-color: rgba(0, 0, 0, 0.5)
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline;
+	margin: 0 5px;
+}
+
+
+*/<head>
+		<title>Marvin the Martian</title>
+		<link rel="stylesheet" type="text/css" href="css/hero.css"
+	</head> 
